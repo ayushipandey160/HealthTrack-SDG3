@@ -1,5 +1,6 @@
 # HealthTrack-SDG3
 HealthTrack-SDG3-Good-Health-And-WellBeing
+
 Frontend: HTML, CSS, JavaScript
 Backend: Node.js
 Database: MongoDB
@@ -10,3 +11,6 @@ Features:
 - BMI Calculator
 - Water Tracker
 - Dashboard
+
+Author:
+- Ayushi Pandey
